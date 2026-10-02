@@ -4,4 +4,4 @@
 
 <img src="IMG_2328.jpeg" alt="Alternate Text for webreaders" style="width:300px">
 
-![michael cruz](IMG_2328.jpeg)
+
