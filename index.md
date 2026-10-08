@@ -4,7 +4,7 @@ Welcome to my FYE101 website! My name is **Michael Cruz**, and this website is a
 
 This site gives me a place to introduce myself, talk about my classes, share work, and reflect on what I learn throughout the semester. I am especially interested in **computer science, technology, games, anime, basketball, and rap**, so some of my courses connect closely with my interests.
 
-You can also go to my about me page here! ![about me](about.md) 
+You can also go to my about me page here! [about me](about.md) 
 
 ---
 
