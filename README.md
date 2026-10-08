@@ -4,8 +4,6 @@
 
 Hi, my name is **Michael Cruz**, and this is my course website for First Year Experience 101 at **Albright College**.
 
-![My FYE101 Course](IMG_2328.jpeg)
-
 ---
 
 ## About This Course
