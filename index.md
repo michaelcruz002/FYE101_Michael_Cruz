@@ -1,22 +1,12 @@
-# Michael Cruz — 2026 Fall Course Portfolio
+# Michael Cruz — 2026 FYE101 Fall Course
 
-Welcome to my college course website! My name is **Michael Cruz**, and this website is a collection of the courses I am taking at **Albright College during Fall 2026**.
+Welcome to my FYE101 website! My name is **Michael Cruz**, and this website is a collection of the courses I am taking at **Albright College during Fall 2026**.
 
 This site gives me a place to introduce myself, talk about my classes, share work, and reflect on what I learn throughout the semester. I am especially interested in **computer science, technology, games, anime, basketball, and rap**, so some of my courses connect closely with my interests.
 
+You can also go to my about me page here! ![about me](about.md) 
+
 ---
-
-# About Me
-
-<img src="IMG_2328.jpeg" alt="Michael Cruz" width="500">
-
-## Who I Am
-
-Hi, my name is **Michael Cruz**. I am a student at **Albright College**, and I am interested in learning more about **computer science, technology, programming, and game development**.
-
-I enjoy learning about computers and figuring out how things work. I am especially interested in coding because it gives me a way to create things instead of only using technology. I am also interested in **games and game development**, which is one reason I am excited to take Game Engines.
-
-Outside of school, some of the things I enjoy are **anime, basketball, and listening to rap**. These interests are a big part of what I enjoy in my free time, and they also give me different ways to connect what I learn in school to things I already care about.
 
 ## My Goals
 
