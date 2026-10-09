@@ -84,7 +84,6 @@ My main goal is to keep improving as a student while also building skills that I
 
 | Course | Page |
 |---|---|
-| FYE101 — First Year Experience | [View Course](FYE101.md) |
 | CSC383-A — Game Engines | [View Course](CSC383A.md) |
 | SYN392-A — The Nuclear Age | [View Course](SYN392A.md) |
 | PSY306-A — Sleep Psychology | [View Course](PSY306A.md) |
