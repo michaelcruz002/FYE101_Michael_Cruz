@@ -24,18 +24,6 @@ As the semester continues, I will add projects, assignments, notes, and reflecti
 
 # My Fall 2026 Courses
 
-## 🎓 FYE101 — First Year Experience
-
-![First Year Experience](images/fye101.jpg)
-
-**First Year Experience 101** is focused on helping me adjust to college and develop the skills I need to be successful during my first year. I will be learning about college resources, organization, time management, goals, and other parts of the college experience.
-
-This course is important to me because I want to build good habits early and become more comfortable with college life.
-
-[**Visit my FYE101 page →**](FYE101.md)
-
----
-
 ## 🎮 CSC383-A — Game Engines
 
 ![Game Engines](images/csc383-game-engines.jpg)
