@@ -6,7 +6,7 @@
 
 ## About This Class
 
-Hi, my name is **Michael Cruz**, and this page shows some of the work I've been doing in Game Engines. I like playing games, so I think it's interesting to see how code controls movement, graphics, and collisions.
+This page shows some of the work I've been doing in Game Engines. I like playing games, so I think it's interesting to see how code controls movement, graphics, and collisions.
 
 ## My Project: ArenaRoids
 
@@ -60,7 +60,6 @@ Working with this code has given me a better understanding of how a game engine 
 
 <img src="images/csc383-game-engines.jpg" alt="3D Game Engines project preview" width="650">
 
-*I can replace this image with a screenshot of ArenaRoids.*
 
 ---
 
