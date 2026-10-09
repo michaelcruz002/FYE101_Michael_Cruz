@@ -5,8 +5,7 @@
 ---
 
 ## About This Class
-
-Hi, my name is **Michael Cruz**, and this page includes notes I've taken in Sleep Psychology. So far, I've been learning about the brain and nervous system and how they help control behavior and important body functions.
+This page includes notes I've taken in Sleep Psychology. So far, I've been learning about the brain and nervous system and how they help control behavior and important body functions.
 
 ## My Class Notes: The Nervous System
 
@@ -58,9 +57,5 @@ Learning these parts of the brain gives me a foundation for understanding sleep.
 ## Course Image
 
 <img src="images/psy306-sleep-psychology.jpg" alt="Brain anatomy and sleep psychology illustration" width="650">
-
-*I can add a labeled brain diagram or a sleep-related picture here.*
-
----
 
 [Back to the homepage](index.md)
