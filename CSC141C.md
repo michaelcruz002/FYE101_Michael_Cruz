@@ -6,7 +6,7 @@
 
 ## About This Class
 
-Hi, my name is **Michael Cruz**, and this page is about my Foundations of Computer Science I/Lab class. I am learning basic programming with Python and getting more practice writing code.
+This page is about my Foundations of Computer Science I/Lab class. I am learning basic programming with Python and getting more practice writing code.
 
 ## Python Work I've Done: Pets and Dictionaries
 
