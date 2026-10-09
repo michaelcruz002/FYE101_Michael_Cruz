@@ -6,7 +6,7 @@
 
 ## About This Class
 
-Hi, my name is **Michael Cruz**, and this page contains some of the notes I've taken in The Nuclear Age. We have been looking at how scientists learned about atoms and radioactivity, and how these discoveries later connected to warfare and the development of the atomic bomb.
+This page contains some of the notes I've taken in The Nuclear Age. We have been looking at how scientists learned about atoms and radioactivity, and how these discoveries later connected to warfare and the development of the atomic bomb.
 
 ## My Class Notes: Early Atomic Theory
 
@@ -66,8 +66,6 @@ One thing that stands out to me is how discoveries about atoms slowly led to tec
 ## Course Image
 
 <img src="images/syn392-nuclear-age.jpg" alt="Historical science and Nuclear Age class image" width="650">
-
-*I can add a picture connected to atomic history or the Manhattan Project here.*
 
 ---
 
